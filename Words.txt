@@ -1,0 +1,3 @@
+The advantage of SVM is that once a boundary is established, most of the training data is redundant. All it needs is a core set of points which can help identify and set the boundary. 
+
+Machine learning is a form of data analysis that automates analytical model building. Using algorithms that continuously assess and learn from data, machine learning enables computers to access hidden insights.
